@@ -22,6 +22,7 @@ module Harvesting
                  :cost_rate,
                  :invoice,
                  :external_reference,
+                 :task_id,
                  :created_at,
                  :updated_at
 
